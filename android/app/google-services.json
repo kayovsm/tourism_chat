@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340927249915",
+    "project_id": "tourism-chat-89431",
+    "storage_bucket": "tourism-chat-89431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340927249915:android:aaeeb6b4627dcaf8e8df5e",
+        "android_client_info": {
+          "package_name": "com.example.tourism_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2S_YDuvOe7ZSxkQcPra6n1_EtQPNjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
